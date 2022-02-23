@@ -1,0 +1,36 @@
+button{
+    background-color: rgb(240, 149, 235);
+    font-family: fantasy;
+    border-radius: 21%;
+    font-size: xx-large;
+    border: none;
+    
+}
+html{
+    border: 10px solid rgb(98, 70, 100);
+    width: 99%;
+    height: 98.4vh;
+}
+body{
+    top: 45%;
+    position: absolute;
+    left: 45%;
+    background-color: rgba(236, 191, 245, 0.897);
+    
+}
+#number{
+    font-family: fantasy;
+    display: grid;
+    place-items: center;
+    background-color: rgba(196, 82, 231, 0.616);
+    border-radius: 40%;
+    font-size: xx-large;
+
+}
+
+.container{
+    border: 2px solid gray;
+    box-shadow: 3px 4px 10px rgb(44, 44, 44);
+    padding: 20px;
+    border-radius: 5px ;
+}
